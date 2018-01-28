@@ -1,0 +1,6 @@
+classes= 4
+train  = /home/ich/img_detection/darknet/data/sea/train.txt
+valid  = /home/ich/img_detection/darknet/data/sea/test.txt
+names = /home/ich/img_detection/darknet/data/sea.names
+backup = /home/ich/img_detection/darknet/backup
+
